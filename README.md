@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on starsoftech pvt Ltd<br>I'm a full stack web developer with 1 Year of experience<br>I'm looking for a job role for full stack web developer<br>I'm compatible with both frontend and backend technologies specially <br>for frontend i used reactjs and for backend i used java spring boot.
+I'm currently working on starsoftech pvt Ltd<br>I'm a full stack web developer with 1 Year of experience<br>Full Stack web developer @ChampionXI | @starsoftech Technology | Frontend developer | Backend Developer | MERN Stack developer
 
 
 ## 🌐 Socials:
@@ -15,7 +15,6 @@ I'm currently working on starsoftech pvt Ltd<br>I'm a full stack web developer w
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Asgar-Nesari&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Asgar-Nesari&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
